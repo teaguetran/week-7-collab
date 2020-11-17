@@ -17,8 +17,8 @@ Hi! Let's do some git collaborating! Can you modify the theme below?
 library(ggplot2)
 
 ggplot(mtcars, aes(x = mpg, y = disp)) +
-  geom_point()
+  geom_point() + 
+  labs(x = "Mileage (miles per gallon)",
+       y = "Displacement (Engine size; cc)",
+       title = "Car info")
 ```
-
-^^ JC! WHERE'S THE TITLE? WHAT ARE THE UNITS?! haha
-
