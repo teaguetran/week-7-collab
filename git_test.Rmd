@@ -10,3 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi JC! :)
+
+Hi! Let's do some git collaborating! Can you modify the theme below?
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars, aes(x = mpg, y = disp)) +
+  geom_point()
+```
+
