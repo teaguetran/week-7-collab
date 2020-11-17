@@ -23,5 +23,11 @@ ggplot(mtcars, aes(x = mpg, y = disp)) +
        title = "Car info")
 ```
 
-There is a plot above
+This graph is so beautiful, imma cry. T_T
+
+ADDING RANDOM STUFF LOL
+
+1 + 1 IS ONE OF BEYONCE'S BEST SONGS. 
+
+
 
