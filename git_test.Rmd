@@ -22,3 +22,6 @@ ggplot(mtcars, aes(x = mpg, y = disp)) +
        y = "Displacement (Engine size; cc)",
        title = "Car info")
 ```
+
+There is a plot above
+
