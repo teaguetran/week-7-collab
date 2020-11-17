@@ -22,3 +22,13 @@ ggplot(mtcars, aes(x = mpg, y = disp)) +
        y = "Displacement (Engine size; cc)",
        title = "Car info")
 ```
+
+This graph is so beautiful, imma cry. T_T
+
+ADDING RANDOM STUFF LOL
+
+1 + 1 IS ONE OF BEYONCE'S BEST SONGS. 
+
+
+
+
